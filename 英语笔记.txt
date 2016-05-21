@@ -231,3 +231,33 @@ underscore 下划线
 intergrate 综合，集成
 period 周期
 trailing 结尾，尾随的
+seek 查找
+indent 缩排
+attempt 尝试
+subscript下标，脚注
+correction 校正
+rating 定额，标称值
+colon 冒号
+avoid 无效，取消
+range 范围
+allocate 分配
+verify 校验，核对
+mannner 样式，方法，惯例
+direction 方向
+emulator 仿真器
+achieve 完成，实现
+dalay 延时
+spliting 分区（裂）
+feature 特征
+console 控制台
+invalid 无效的
+dot 点
+asynchronous 异步的
+wrap 包装
+queue 排队
+interrupt 打断
+hyphen 连字符
+serial 串行的
+retain 保持
+
+
